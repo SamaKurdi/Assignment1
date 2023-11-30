@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="options">
+        <item>InterView</item>
+        <item>Candy Birthday</item>
+        <item>Go to the gym</item>
+        <item>Badmintion Practice</item>
+        <item>House cleaning</item>
+        <item>Go To the Park</item>
+        <item>Email to law firm</item>
+        <item>Corporate Technology</item>
+        <item>Listen to the VOA news</item>
+        <item>Travel to cyprus</item>
+
+
+    </string-array>
+</resources>
+
